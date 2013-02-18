@@ -1,4 +1,4 @@
 protocode
 =========
 
-The blurst. 
+This is our prototype code. Welcome!
